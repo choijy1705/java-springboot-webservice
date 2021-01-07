@@ -1,2 +1,4 @@
+com/junyoung/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.junyoung.book.springboot.web.dto.HelloResponseDtoTest
 com/junyoung/book/springboot/web/HelloControllerTest.java
  com.junyoung.book.springboot.web.HelloControllerTest
