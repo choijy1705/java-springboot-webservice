@@ -6,3 +6,5 @@ com/junyoung/book/springboot/web/PostsApiControllerTest.java
  com.junyoung.book.springboot.web.PostsApiControllerTest
 com/junyoung/book/springboot/domain/posts/PostsRepositoryTest.java
  com.junyoung.book.springboot.domain.posts.PostsRepositoryTest
+com/junyoung/book/springboot/web/IndexControllerTest.java
+ com.junyoung.book.springboot.web.IndexControllerTest

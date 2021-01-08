@@ -23,3 +23,5 @@ com/junyoung/book/springboot/service/posts/PostsService.java
 com/junyoung/book/springboot/domain/posts/Posts.java
  com.junyoung.book.springboot.domain.posts.Posts
  com.junyoung.book.springboot.domain.posts.Posts$PostsBuilder
+com/junyoung/book/springboot/web/IndexController.java
+ com.junyoung.book.springboot.web.IndexController
