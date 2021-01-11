@@ -29,8 +29,8 @@ com/junyoung/book/springboot/config/auth/CustomOAuth2UserService.java
  com.junyoung.book.springboot.config.auth.CustomOAuth2UserService
 com/junyoung/book/springboot/domain/BaseTimeEntity.java
  com.junyoung.book.springboot.domain.BaseTimeEntity
-com/junyoung/book/springboot/Application.java
- com.junyoung.book.springboot.Application
+com/junyoung/book/springboot/config/auth/SecurityConfig.java
+ com.junyoung.book.springboot.config.auth.SecurityConfig
 com/junyoung/book/springboot/web/dto/HelloResponseDto.java
  com.junyoung.book.springboot.web.dto.HelloResponseDto
 com/junyoung/book/springboot/domain/user/User.java
@@ -47,5 +47,7 @@ com/junyoung/book/springboot/web/dto/PostsListResponseDto.java
  com.junyoung.book.springboot.web.dto.PostsListResponseDto
 com/junyoung/book/springboot/domain/user/Role.java
  com.junyoung.book.springboot.domain.user.Role
-com/junyoung/book/springboot/config/auth/SecurityConfig.java
- com.junyoung.book.springboot.config.auth.SecurityConfig
+com/junyoung/book/springboot/config/JpaConfig.java
+ com.junyoung.book.springboot.config.JpaConfig
+com/junyoung/book/springboot/Application.java
+ com.junyoung.book.springboot.Application
