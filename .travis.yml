@@ -40,7 +40,7 @@ deploy:
     key: java-springboot-webservice.zip # 빌드 파일을 압축해서 전달
     build_type: zip #압축 확장자
     application: java-springboot-webservice # 웹 콘솔에서 등록한 CodeDeploy 애플리케이션
-    deployment_group: java-springboot-webservice
+    deployment_group: java-springboot-webservice-group
     region: ap-northeast-2
     wait-until-deployed: true
 
