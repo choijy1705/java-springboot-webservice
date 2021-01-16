@@ -27,7 +27,7 @@ deploy:
     access_key_id: $AWS_ACCESS_KEY # Travis repo settings에 설정된 값
     secret_access_key: $AWS_SECRET_KEY # Travis repo settings에 설정된 값
     bucket: java-springboot-build
-    region: ap-northeast-2
+    region: us-east-2
     skip_cleanup: true
     acl: private # zip 파일 접근을 private으로
     local_dir: deploy # before deploy에서 생성한 디렉토리
@@ -41,7 +41,7 @@ deploy:
     bundle_type: zip #압축 확장자
     application: java-springboot-webservice # 웹 콘솔에서 등록한 CodeDeploy 애플리케이션
     deployment_group: java-springboot-webservice-group
-    region: ap-northeast-2
+    region: us-east-2
     wait-until-deployed: true
 
 # CI 실행 완료시 메일로 알람
