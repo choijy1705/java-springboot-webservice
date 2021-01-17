@@ -6,5 +6,9 @@ com/junyoung/book/springboot/web/IndexControllerTest.java
  com.junyoung.book.springboot.web.IndexControllerTest
 com/junyoung/book/springboot/domain/posts/PostsRepositoryTest.java
  com.junyoung.book.springboot.domain.posts.PostsRepositoryTest
+com/junyoung/book/springboot/web/ProfileControllerUnitTest.java
+ com.junyoung.book.springboot.web.ProfileControllerUnitTest
 com/junyoung/book/springboot/web/HelloControllerTest.java
  com.junyoung.book.springboot.web.HelloControllerTest
+com/junyoung/book/springboot/web/ProfileControllerTest.java
+ com.junyoung.book.springboot.web.ProfileControllerTest

@@ -49,5 +49,7 @@ com/junyoung/book/springboot/web/dto/PostsListResponseDto.java
  com.junyoung.book.springboot.web.dto.PostsListResponseDto
 com/junyoung/book/springboot/domain/user/Role.java
  com.junyoung.book.springboot.domain.user.Role
+com/junyoung/book/springboot/web/ProfileController.java
+ com.junyoung.book.springboot.web.ProfileController
 com/junyoung/book/springboot/config/auth/SecurityConfig.java
  com.junyoung.book.springboot.config.auth.SecurityConfig
